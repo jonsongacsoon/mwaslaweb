@@ -1,7 +1,7 @@
 /* --- CSS Reset and Variables --- */
 @font-face {
     font-family: 'PingAR';
-    src: url('alfont_com_PingARLT-Bold.otf') format('opentype');
+    src: url('../fonts/alfont_com_PingARLT-Bold.otf') format('opentype');
     font-weight: 800;
     /* Matching the Bold weight from the filename */
     font-style: normal;

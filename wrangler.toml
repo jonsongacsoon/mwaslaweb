@@ -1,0 +1,5 @@
+name = "mwasla"
+compatibility_date = "2024-03-02"
+
+[assets]
+directory = "./"
